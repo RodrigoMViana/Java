@@ -2,5 +2,5 @@
   
 
 
-  <h1 alignt="center" ![](https://i.giphy.com/media/XtUPfbJIltIaY/giphy.webp)></h1>
+  ![](https://i.giphy.com/media/XtUPfbJIltIaY/giphy.webp)
 
